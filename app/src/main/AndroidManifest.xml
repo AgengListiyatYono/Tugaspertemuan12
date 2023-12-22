@@ -15,7 +15,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.BelajarAndroid"
         tools:targetApi="31">
-
+        <activity
+            android:name=".Tab1"
+            android:exported="false" />
         <activity
             android:name=".HomeActivityGrid"
             android:exported="false">
