@@ -1,6 +1,5 @@
 ## TUGAS UAS PEMROGRAMAN ANDROID MOBILE SEMESTER 3
 
-> [!PROFIL]
 > Ageng Listiyat Yono 31221082 TI22B1 Teknik Informatika Universitas Pelita Bangsa 
 
 Project ini merupakan sebuah tugas UAS mata kuliah ` pemrogramman mobile 1`, 
